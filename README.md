@@ -7,7 +7,7 @@ Repositorio con mi progreso en **POO en Python**, desde conceptos básicos hasta
 
 ## 📌 Contenido
 
-### � Fundamentos de POO
+### 🧱 Fundamentos de POO
 1. **Clases y objetos**: 
 2. **Métodos y atributos**
 
@@ -19,7 +19,7 @@ Repositorio con mi progreso en **POO en Python**, desde conceptos básicos hasta
 ### ✨ Proyecto Final: Task Manager
 - Gestión de tareas en consola
 - Persistencia en archivo JSON
-- Uso de métodos especiales (`__str__`)
+- Uso de métodos especiales/magicos
 
 ## 🚀 Repositorio:
 
